@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55@6c48a",
+      "displayName": "carouselbg",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55@f9941",
+      "displayName": "carouselbg",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 30,
+        "height": 207,
+        "rawWidth": 30,
+        "rawHeight": 207,
+        "borderTop": 10,
+        "borderBottom": 10,
+        "borderLeft": 2,
+        "borderRight": 2,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "7d0bfd7d-35a0-4d6d-b98f-60dac1325e55@f9941"
+  }
+}

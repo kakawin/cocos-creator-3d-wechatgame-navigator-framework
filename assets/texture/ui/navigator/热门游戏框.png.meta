@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "24eb8f8f-a905-4e26-9105-e95f5a9047f3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "24eb8f8f-a905-4e26-9105-e95f5a9047f3@6c48a",
+      "displayName": "热门游戏框",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "24eb8f8f-a905-4e26-9105-e95f5a9047f3"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "24eb8f8f-a905-4e26-9105-e95f5a9047f3@f9941",
+      "displayName": "热门游戏框",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 665,
+        "height": 719,
+        "rawWidth": 665,
+        "rawHeight": 719,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "24eb8f8f-a905-4e26-9105-e95f5a9047f3@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "24eb8f8f-a905-4e26-9105-e95f5a9047f3@f9941"
+  }
+}

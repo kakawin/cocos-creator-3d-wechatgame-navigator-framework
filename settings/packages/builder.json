@@ -1,0 +1,64 @@
+{
+  "projectSetting": {
+    "modules": {
+      "cache": {
+        "Audio": {
+          "value": true
+        },
+        "Core": {
+          "value": true
+        },
+        "Graphcis API": {
+          "value": true
+        },
+        "Particle System": {
+          "value": true
+        },
+        "Physics": {
+          "option": 0,
+          "value": true
+        },
+        "Terrain": {
+          "value": false
+        },
+        "Tween": {
+          "value": true
+        },
+        "UI": {
+          "value": true
+        },
+        "WebGL 1.0": {
+          "value": true
+        },
+        "WebGL 2.0": {
+          "value": true
+        }
+      },
+      "includeModules": [
+        "base",
+        "gfx-webgl",
+        "gfx-webgl2",
+        "ui",
+        "particle",
+        "physics-cannon",
+        "physics-framework",
+        "audio",
+        "tween"
+      ]
+    }
+  },
+  "hasSetSplash": true,
+  "splash-setting": {
+    "base64src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACAQMAAABIeJ9nAAAAA1BMVEX///+nxBvIAAAACklEQVQI12MAAgAABAABINItbwAAAABJRU5ErkJggg==",
+    "clearColor": {
+      "a": 1,
+      "b": 0.9882352941176471,
+      "g": 0.9882352941176471,
+      "r": 0.9882352941176471
+    },
+    "displayRatio": 1,
+    "displayWatermark": false,
+    "effect": "",
+    "totalTime": 1
+  }
+}

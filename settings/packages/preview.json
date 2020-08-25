@@ -1,0 +1,12 @@
+{
+  "previewConfig": {
+    "userDevices": {
+      "FHD": {
+        "height": 1920,
+        "name": "FHD",
+        "width": 1080
+      }
+    },
+    "start_scene": "ce1cba28-1e8e-4f4f-a489-c1a9e10ba2d2"
+  }
+}

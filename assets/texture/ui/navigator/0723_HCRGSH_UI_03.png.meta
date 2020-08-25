@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b0a62e95-96f6-4098-a64a-200d74799808",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b0a62e95-96f6-4098-a64a-200d74799808@6c48a",
+      "displayName": "0723_HCRGSH_UI_03",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b0a62e95-96f6-4098-a64a-200d74799808"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "b0a62e95-96f6-4098-a64a-200d74799808@f9941",
+      "displayName": "0723_HCRGSH_UI_03",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 46,
+        "height": 22,
+        "rawWidth": 46,
+        "rawHeight": 22,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 10,
+        "borderRight": 10,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b0a62e95-96f6-4098-a64a-200d74799808@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "b0a62e95-96f6-4098-a64a-200d74799808@f9941"
+  }
+}
